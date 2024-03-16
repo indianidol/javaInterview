@@ -1,4 +1,4 @@
-package testProject;
+package interview.strings;
 
 public class ReverseString {
 
